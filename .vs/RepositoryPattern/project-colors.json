@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "407b6d65-4b4c-4cc5-99f1-dadf09934c70": {
+      "ProjectGuid": "407b6d65-4b4c-4cc5-99f1-dadf09934c70",
+      "DisplayName": "LibraryManagement",
+      "ColorIndex": 0
+    },
+    "4ab58165-5267-443b-b7fb-01851a96bd59": {
+      "ProjectGuid": "4ab58165-5267-443b-b7fb-01851a96bd59",
+      "DisplayName": "Repository",
+      "ColorIndex": 1
+    },
+    "6884685e-75cd-461c-a1eb-24557792cedf": {
+      "ProjectGuid": "6884685e-75cd-461c-a1eb-24557792cedf",
+      "DisplayName": "DomainModels",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
